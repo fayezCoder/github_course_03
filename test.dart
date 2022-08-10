@@ -4,5 +4,5 @@ void main(List<String> args) {
   var c = 'amr';
   var n = 'faisal';
 
-  print(x + b + c);
+  print(x + b + c + n);
 }
